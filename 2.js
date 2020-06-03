@@ -23,7 +23,6 @@ Apabila ada jumlah yang sama dan jumlah tersebut merupakan jumlah terbesar, tamp
   * SET 'temp' to empty object
   * SET 'highestFrequency' to zero(number)
   * SET 'mode' to empty string
-  *
 **/
 function favoriteColor (input) {
   // your code here!
