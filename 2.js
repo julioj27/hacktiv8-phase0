@@ -25,6 +25,7 @@ Apabila ada jumlah yang sama dan jumlah tersebut merupakan jumlah terbesar, tamp
   * SET 'mode' to empty string
   * IF length of input array is equal to zero THEN
   *   FOR each number in input array
+  *     SET 'color' to number in input array
 **/
 function favoriteColor (input) {
   // your code here!
