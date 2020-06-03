@@ -18,7 +18,14 @@ Apabila ada jumlah yang sama dan jumlah tersebut merupakan jumlah terbesar, tamp
 */
 
 //pseudocode here
-
+/**
+  * SET 'result' to empty string
+  * SET 'temp' to empty object
+  * SET 'highestFrequency' to zero(number)
+  * SET 'mode' to empty string
+  * IF length of input array is equal to zero THEN
+  *   FOR each number in input array
+**/
 function favoriteColor (input) {
   // your code here!
   var result = '';
